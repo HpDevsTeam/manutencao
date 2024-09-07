@@ -1,0 +1,10 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
